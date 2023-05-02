@@ -1,0 +1,7 @@
+*log*
+*.sh
+*.slurm
+joblog/
+*.pickle
+.ipynb_checkpoints/
+pixel-nerf/
