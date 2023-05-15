@@ -5,3 +5,6 @@ joblog/
 *.pickle
 .ipynb_checkpoints/
 pixel-nerf/
+shrec17/
+*__pycache__/
+SimCLR/runs
