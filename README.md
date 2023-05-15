@@ -1,4 +1,6 @@
-# golden-retriever
+# Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion Latents for Metric Learning
+Code for paper "Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion
+Latents for Metric Learning" and joint work with David Shustin.
 
 ## Code
 Notebooks for training and retrieval evaluation (+ reproduction of key figures) are available at ``train.ipynb`` and ``run.ipynb``, respectively. Training code relies on our adaptation ``SimCLR/`` of a
