@@ -1,0 +1,10 @@
+*log*
+*.sh
+*.slurm
+joblog/
+*.pickle
+.ipynb_checkpoints/
+pixel-nerf/
+shrev17/
+*__pycache__/
+runs/
