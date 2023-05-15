@@ -8,6 +8,7 @@ Notebooks for training and retrieval evaluation (+ reproduction of key figures) 
 
 ## Data
 For convenience, we uploaded the precomputed EfficientNet and Shap-E embeddings for the dataset of 300 scenes (20 images per scene) to Google Drive. Our precomputed database of embeddings can be found [here](https://drive.google.com/file/d/1l6iSZibWuvclYNO8mfWd4Z-l1MVX7cs2/view?usp=sharing).
+
 To replicate these embeddings, the original ShapeNet SRN Cars dataset can be found [here](https://drive.google.com/drive/folders/1PsT3uKwqHHD2bEEHkIXB99AlIjtmrEiR)
 (maintained by the authors of PixelNeRF). The code for EfficientNet is available in torchvision, while the code for Shap-E is available [here](https://github.com/openai/shap-e)
 (maintained by OpenAI), where [this notebook](https://github.com/openai/shap-e/blob/main/shap_e/examples/sample_image_to_3d.ipynb) is particularly helpful.
